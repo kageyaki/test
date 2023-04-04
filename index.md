@@ -1,5 +1,6 @@
+openへのアクセスをwwwにリダイレクトするサイト
 ---
 layout: redirected
 sitemap: false
-redirect_to: https://dentime.anozon.me
+redirect_to: https://www.kirikaetest123.com/
 ---
