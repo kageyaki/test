@@ -1,4 +1,3 @@
-openへのアクセスをwwwにリダイレクトするサイト
 ---
 layout: redirected
 sitemap: false
